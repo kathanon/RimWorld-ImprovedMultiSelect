@@ -1,0 +1,22 @@
+<ModMetaData>
+	<name>Improved Multi-Select</name>
+	<author>kathanon</author>
+    <packageId>kathanon.ImprovedMultiSelect</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>Adds more options for interacting with multiple selected pawns.</description>
+	<url>https://github.com/kathanon/RimWorld-ImprovedMultiSelect</url>
+
+	<modDependencies>
+		<li>
+			<packageId>UnlimitedHugs.HugsLib</packageId>
+			<displayName>HugsLib</displayName>
+			<downloadUrl>https://github.com/UnlimitedHugs/RimworldHugsLib/releases/latest</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/818773962</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>UnlimitedHugs.HugsLib</li>
+	</loadAfter>
+</ModMetaData>
